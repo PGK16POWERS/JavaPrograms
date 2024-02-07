@@ -1,1 +1,1 @@
-#Print All the Odd and Even numbers found in an Array
+# Print All the Odd and Even numbers found in an Array 
