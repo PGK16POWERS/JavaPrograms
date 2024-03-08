@@ -35,5 +35,7 @@ public class Poea6 {
                 System.out.print(num + " ");
             }
         }
+
+        s.close();
     }
 }
