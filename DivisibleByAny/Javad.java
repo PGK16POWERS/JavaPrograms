@@ -21,7 +21,7 @@ public class Javad {
             System.out.println(dividend + " is divisible by " + divisor);
             System.out.println(divisor + " goes into " + dividend + ": " + dividend / divisor + " times");
         } else {
-            System.out.println(dividend + " is not divisble by " divisor);
+            System.out.println(dividend + " is not divisble by " + divisor);
         }
 
         s.close();
